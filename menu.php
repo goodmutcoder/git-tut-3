@@ -6,4 +6,9 @@
     echo "tel";
     echo "price";
     
+    echo "price";
+    echo "about me";
+    echo "tel";
+    echo "price";
+    echo "price";
 ?>
